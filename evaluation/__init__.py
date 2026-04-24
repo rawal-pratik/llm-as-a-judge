@@ -1,0 +1,3 @@
+"""
+evaluation/ — Core evaluation engine.
+"""

@@ -1,0 +1,3 @@
+"""
+dashboard/ — Streamlit visualization layer.
+"""
