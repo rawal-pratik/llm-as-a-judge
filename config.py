@@ -21,7 +21,7 @@ DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./llm_judge.db")
 JUDGE_MODELS = [
     "meta-llama/llama-3-8b-instruct",
     "mistralai/mistral-small-24b-instruct-2501",
-    "mistralai/mixtral-8x7b-instruct",
+    "mistralai/mistral-7b-instruct",
 ]
 
 # --- Default evaluation settings ---
